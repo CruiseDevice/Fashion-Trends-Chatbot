@@ -1,4 +1,4 @@
-# Fashion Trends Chatbor
+# Fashion Trends Chatbot
 
 ## Overview
 
